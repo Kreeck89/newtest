@@ -3,7 +3,7 @@ package service.impl;
 import service.CountValue;
 
 /**
- * Will write later
+ * Will write later.........
  */
 public class SumString implements CountValue<String, String> {
     @Override
