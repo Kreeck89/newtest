@@ -2,6 +2,9 @@ package service.impl;
 
 import service.CountValue;
 
+/**
+ * Some java docs
+ */
 public class MinusInteger implements CountValue<Integer, Integer> {
 
     @Override

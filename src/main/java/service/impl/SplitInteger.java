@@ -7,4 +7,5 @@ public class SplitInteger implements CountValue<Integer, Integer> {
     public Integer count(Integer a, Integer b) {
         return a/b;
     }
+    //will test later
 }
