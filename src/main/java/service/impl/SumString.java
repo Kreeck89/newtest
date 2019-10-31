@@ -13,7 +13,7 @@ import service.CountValue;
  * 7
  * 8
  * 9
- * 1023
+ * 10233
  */
 public class SumString implements CountValue<String, String> {
     @Override
