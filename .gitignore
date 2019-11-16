@@ -1,5 +1,5 @@
 .idea
 #src/main/resources/
 #can be other files
-##something12
+###something12
 target/classes/file.txt
