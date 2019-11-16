@@ -2,3 +2,4 @@
 #src/main/resources/
 #can be other files
 ##something12
+target/classes/file.txt
