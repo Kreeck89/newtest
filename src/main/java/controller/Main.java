@@ -6,6 +6,9 @@ import java.awt.image.BufferedImage;
 
 public class Main {
 
+    /**
+     * @param args sd
+     */
     public static void main(String[] args) {
         int width = 1;
         int height = 2;
